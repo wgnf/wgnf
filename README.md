@@ -24,5 +24,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wgnf&theme=dark" width="48%" >
 
 #### My Top Languages
+
+_NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats._
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wgnf&layout=compact)
