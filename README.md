@@ -20,7 +20,7 @@
 
 #### My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=wgnf&show_icons=true&theme=gotham" alt="wgnf" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?count_private=true&username=wgnf&show_icons=true&theme=gotham" alt="wgnf" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wgnf&theme=dark" width="48%" >
 
 #### My Top Languages
