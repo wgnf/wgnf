@@ -31,12 +31,11 @@
 - love Clean Code
 - currently learning more about Software-Architecture/Design/Quality 🧐
 - would love to learn more about App/Mulitplatform Development (i.e. Flutter, Kotlin) and Web Development (i.e. PHP, TypeScript, Angular, React, ...)
-
-Learn more about what I'm currently working on from my pinned projects
-
 - cat-dad
 - tech-nerd
 - gamer
+
+Learn more about what I'm currently working on from my pinned projects
 
 ---
 
