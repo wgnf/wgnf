@@ -35,6 +35,10 @@
 - tech-nerd
 - gamer
 
+### 🧾
+
+- Certified Professional for Software Architecture (Foundation Level)
+
 Learn more about what I'm currently working on from my pinned projects
 
 ---
