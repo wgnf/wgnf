@@ -14,6 +14,7 @@
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual%20studio&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-0000FF.svg?style=flat&logo=python&logoColor=yellow" /> 
   </p>
   
   <p align="center">
